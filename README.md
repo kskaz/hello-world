@@ -1,4 +1,4 @@
 # hello-world
 First GitHub repository
 
-This file has been editted.
+My name is Kaz and I am using GitHub for the first time!
